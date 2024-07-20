@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jian Liu (刘健)</h1>
-<h3 align="center">追风赶月莫停留，平芜尽处是春山.</h3>
+<h3 align="center">Hi 👋, I'm Jian Liu (刘健)</h1>
+<h5 align="center">菜鸡本鸡.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liujian1997&label=Profile%20views&color=0e75b6&style=flat" alt="liujian1997" /> </p>
 
+<!-- ![Liujian's github stats](https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&theme=radical)  -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&locale=en" alt="liujian1997" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&theme=radical" alt="liujian1997" /></p>
 
 
 
-- 🔭 I’m currently working on [Tongji University](https://www.tongji.edu.cn/)
+<!-- - 🔭 I’m currently working on [Tongji University](https://www.tongji.edu.cn/) -->
 
-- 🌱 I’m currently learning **Shanghai**
+<!-- - 🌱 I’m currently learning on **Shanghai** -->
 
 <!-- - 👯 I’m looking to Ph.D position on **C.S** -->
 
 <!-- - 🤝 I’m looking for help with [Shanghai](Shanghai) -->
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Liujian1997?tab=repositories)
+<!-- - 👨‍💻 All of my projects are available at [Github](https://github.com/Liujian1997?tab=repositories) -->
 
 <!-- - 📝 I regularly write articles on [Shanghai](Shanghai) -->
 
@@ -29,11 +30,11 @@
 
 <!-- - ⚡ Fun fact **Shanghai** -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liujian1997&show_icons=true&locale=en&layout=compact" alt="liujian1997" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liujian1997&show_icons=true&locale=en&layout=compact" alt="liujian1997" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/liuajin" target="blank"><img align="center" src="./google_scholar.svg" alt="liuajin" height="30" width="40" /></a>
+<a href="/liuajin" target="blank"><img align="center" src="./google_scholar.svg" alt="liuajin" height="30" width="40" /></a> -->
 <!-- </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
