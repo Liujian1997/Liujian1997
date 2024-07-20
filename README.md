@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&theme=radical" alt="liujian1997" height="192"/>
 </p>
 
-### 📝 Publication
+### 📝 PUBLICATION
 
 
 <!-- - 🔭 I’m currently working on [Tongji University](https://www.tongji.edu.cn/) -->
