@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋, I'm Jian Liu (刘健)</h1>
 <h5 align="center">立志填满publication的菜鸡本鸡.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=liujian1997&label=Profile%20views&color=0e75b6&style=flat" alt="liujian1997" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jian-liu1&label=Profile%20views&color=0e75b6&style=flat" alt="jian-liu1" /> </p>
 
 <!-- ![Liujian's github stats](https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&theme=radical)  -->
 
 
 <p align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=liujian1997&show_icons=true&layout=compact&theme=radical" alt="liujian1997" height="192"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jian-liu1&show_icons=true&layout=compact&theme=radical" alt="jian-liu1" height="192"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=liujian1997&show_icons=true&theme=radical" alt="liujian1997" height="192"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jian-liu1&show_icons=true&theme=radical" alt="jian-liu1" height="192"/>
 </p>
 
 
